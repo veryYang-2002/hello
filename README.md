@@ -1,2 +1,6 @@
 # hello
-the first time to use the github, let me see how to use
+#include<stdio.h>
+void main()
+{
+printf("hello world\n");
+}
